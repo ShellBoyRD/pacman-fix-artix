@@ -3,7 +3,7 @@ cd pacman-config-artix &&
 rm /etc/pacman.conf &&
 mv temp-pacman.conf /etc/pacman.conf &&
 pacman -Syuu &&
-pacman -S artix-archlinux support &&
+pacman -S artix-archlinux-support &&
 pacman-key --populate archlinux &&
 rm /etc/pacman.conf &&
 mv pacman.conf /etc/pacman.conf &&
