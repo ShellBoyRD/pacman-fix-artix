@@ -1,5 +1,5 @@
 ### pacman-fix-artix
-> To fix pacman either type in these commands or copy the code block
+> This command will do everything just copy and paste
 
 ```Bash 
 sudo pacman -Syyuu
